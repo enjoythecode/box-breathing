@@ -49,26 +49,26 @@ body {
 .count{
     font-size: 2em;
     background-color: white;
-    width: 2vw;
-    height: 2vw;
+    width: 3vw;
+    height: 3vw;
     opacity: 0;
 }
 
 #count-1{
     animation: 6s count-fade infinite;
-    border-top-right-radius: 30%;
+    border-top-right-radius: 70%;
 }
 #count-2{
     animation: 6s count-fade 0.75s infinite;
-    border-bottom-right-radius: 30%;
+    border-bottom-right-radius: 70%;
 }
 #count-3{
     animation: 6s count-fade 1.5s infinite;
-    border-bottom-left-radius: 30%;
+    border-bottom-left-radius: 70%;
 }
 #count-4 {
     animation: 6s count-fade 2.25s infinite;
-    border-top-left-radius: 30%;
+    border-top-left-radius: 70%;
 }
 
 #explainer-left{
