@@ -77,13 +77,13 @@ body {
     bottom: 0;
 }
 #explainer-right{
-    color: rgba(95, 229, 255);
+    color: rgba(121, 255, 255);
     position: absolute;
     bottom: 0;
     right: 0.5em;
 }
 #explainer-right a{
-    color: rgba(95, 229, 255);
+    color: rgba(121, 255, 255);
 }
 @keyframes primary-loop {
     0% {width: 20vw;height: 20vw;}
@@ -110,13 +110,13 @@ body {
 }
 
 @keyframes secondary-big-burst {
-    0% {width: 40vw;height:40vw;border-color:white;}
-    100% {width: 50vw;height:50vw;border-color:#41c19b;}
+    0% {width: 40vw;height:40vw;border-color:#79ffff;}
+    100% {width: 50vw;height:50vw;border-color:#42a7c1;}
 }
 
 @keyframes secondary-small-burst {
-    0% {width: 20vw;height:20vw;border-color:white;}
-    100% {width: 25vw;height:25vw;border-color:#41c19b;}
+    0% {width: 20vw;height:20vw;border-color:#79ffff;}
+    100% {width: 25vw;height:25vw;border-color:#42a7c1;}
 }
 
 @keyframes count-fade {
